@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8605ad41da40f4d82c4f2b521857ce, type: 3}
+  m_Name: Level1Sin1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"Dear traveller, have you ever read the story of Cinderella?"'
+  - '"I find myself very akin to her. She lost one of her shoes trying to go home
+    before the clock struck midnight."'
+  - '"I lost my legs around here. I am devastated. I used to think them as troublesome.
+    They never looked right in my dresses."'
+  - '"When I got lost, my feet started to hurt. I thought once more about how troublesome
+    they were to me."'
+  - '"I thought for a long time that if I could, I''d change them to my liking. They
+    were so vile to look at and so useless to me in that moment..."'
+  - '"I wished for them to disappear forever!"'
+  - '"Oh how wrong I was to do so. A monster overheard and stole them from me."'
+  - '"I didn''t mean it, dear traveller. I want them back."'
+  - '"They were just so useless in that moment! They couldn''t even carry me anywhere."'
+  - '"But now...with them gone...I should feel happier since I hated them so much...but..."'
+  - '"There are so many ways I could improve on them now! If only you''d help me
+    find them..."'
+  - I really wonder how she escaped the monster with no legs.
+  - ...I hope I don't end up crossing that monster.
+  - What is that over there? So much light...

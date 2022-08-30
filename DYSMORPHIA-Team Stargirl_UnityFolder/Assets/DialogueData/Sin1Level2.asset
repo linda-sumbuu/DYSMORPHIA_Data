@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8605ad41da40f4d82c4f2b521857ce, type: 3}
+  m_Name: Sin1Level2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"My poor arms are probably lost somewhere around here. Oh, dear traveller, I
+    tell you. I am cursed."'
+  - '"It felt like I was Snow White. This part of the woods was so cold, and I was
+    so hungry and freezing."'
+  - '"All I wanted to do was lie down and sleep forever."'
+  - '"My arms...my long, bony arms...USELESS. Vile to look at. Goosebumps made the
+    skin on them rough like sandpaper."'
+  - '"I couldn''t help it, dear traveller."'
+  - '"I wished for them to be gone forever. I could not stand looking at them any
+    longer."'
+  - '"And then, it happened again! They were stolen from me by these MONSTERS."'
+  - '"I was broken. I barely escaped. These monsters...they only see you as food.
+    They don''t see my pain."'
+  - '"These ruthless monsters relish at the look of horror in my eyes as they consume."'
+  - '"I am weak and cannot stop them...but one day, I will have my revenge against
+    them for ruining my body."'
+  - '"One day...they will try to run from ME."'
+  - She seems...angrier.
+  - What do I believe? Neither party has truly given me a sign to believe them.
+  - And there seems to be another spirit over there...
+  - The previous one seemed extremely angry and this one feels...angrier...
+  - I'm scared...but what else can I do?

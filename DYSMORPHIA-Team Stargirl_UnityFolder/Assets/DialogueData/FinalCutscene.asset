@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8605ad41da40f4d82c4f2b521857ce, type: 3}
+  m_Name: FinalCutscene
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"You''re finally here! I started to think you may have died."'
+  - Wh-what...what...are you?
+  - '"What do you mean? Did you not read any of my signs?"'
+  - No! I mean why do you look so much like me?!
+  - '"..."'
+  - This...this is a nightmare.
+  - '"No. It is very much real. And you did nothing that I told you to do."'
+  - '"This was expected."'
+  - Answer me! Why do you look like me?! What are you? Why am I here?
+  - '"You''re very aware why."'
+  - The forest spirit said the same. What do you want from me?!
+  - '"I want you to surrender."'
+  - What...?
+  - '"I tried to fix things. I tried to help you."'
+  - '"But you don''t want my help. You just can''t help but ruin it for yourself."'
+  - '"You pushed me away."'
+  - You're not making sense!
+  - '"Why did you not bring back my limbs? Did you even ask?"'
+  - The mons- the forest spirits refused to help me...
+  - '"You''re lying."'
+  - What?!
+  - '"If you had just listened to me...you would be home by now."'
+  - '"I wanted you to bring them back yourself and you refused! Now we will never
+    know."'
+  - Know...know what?
+  - '"Did you ever use the mirror?"'
+  - The...mirror?
+  - '"Yes, the mirror I left you. I want my face back. Don''t you?"'
+  - I have a face!
+  - '"No. That is not your face. Use the mirror and see for yourself."'
+  - 'I don''t trust you. The spirits told me you''re a liar. '
+  - '"You don''t know what I see."'
+  - Stop.
+  - '"You don''t even know your own name. You say you don''t know who I am...but
+    you do. "'
+  - '"You don''t even know if your own body is your own, or someone else''s."'
+  - '"You just don''t want to admit it."'
+  - '"What you perceive as real, may not even be real. You''re unsure aren''t you?
+    That''s why you never used the mirror."'
+  - Please...stop.
+  - '"You couldn''t even recognise your own arms and legs. You''re too scared to
+    see what they looked like. You didn''t ask the spirits because you were scared."'
+  - '"The reality is, you don''t recognise me and you didn''t find my face because
+    you''re afraid."'
+  - No...I was helping...
+  - '"Yourself. You don''t want to accept that you are lost. You don''t want to accept
+    that the monster YOU wrote about...was you all along."'
+  - ...
+  - '"I hid our limbs so that you could find yourself again. So you could see how
+    twisted this place has become because of you."'
+  - '"I had only ever wished for you to accept yourself."'
+  - I can't.
+  - It's not me. I couldn't let anyone see me like that!
+  - I...don't want to be found...not like this. Not while looking like a monster.
+  - '"..."'
+  - '"Tell me...what do you see in the mirror?"'
+  - The...mirror?
+  - '"What do you see?"'

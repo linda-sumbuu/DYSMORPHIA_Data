@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8605ad41da40f4d82c4f2b521857ce, type: 3}
+  m_Name: Cutscene3
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"..."'
+  - H-hello...forest spirit?
+  - '"Are you a wish-seeker?"'
+  - W-what? Oh n-no! I was just...
+  - '"You are looking for someone."'
+  - Y-yes. Do you know who she is?
+  - '"She asked me for a wish, I know only of her deepest want to rid herself of
+    her arms."'
+  - She asked you to get rid of her arms? Why?
+  - '"I cannot reveal that."'
+  - The other spirit said the same thing. Is there a confidentiality agreement or
+    something?
+  - '"No. It is simply because you are aware of why. I do not see the need to repeat
+    it."'
+  - Wh-what! I know nothing about this woman? She just told me to stay away from
+    you.
+  - She said you were dangerous. She said she could help me get out and fight you
+    using this mirr-
+  - '"You are an interesting human."'
+  - What...?
+  - '"You claim to know nothing. But I can see. You can lie to the other spirit,
+    but not to me."'
+  - '"I see it all. And I see the desperation rotting your brain. You know nothing
+    of this woman...yet you come to find her limbs?"'
+  - '"If you were truly looking for an exit...you would have wished for it by now."'
+  - '"But you yearn for something darker."'
+  - You-you don't know me. I'm just trying to go home.
+  - The woman...she said you could not be trusted. That you would kill me too...
+  - '"I am a protector of this forest. I feel no thirst for blood."'
+  - '"I will not hold you back any longer. You say that you do not know who to believe..."'
+  - '"But you have already made your choice."'

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8605ad41da40f4d82c4f2b521857ce, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  dialogue:
+  - This sign...maybe it can lead me to an exit? What does it say?
+  - '"Welcome to my world, dear traveller. This forest is my hide out."'
+  - '"You see, dear traveller...I have lost myself in these woods. Quite literally."'
+  - '"My arms, legs and face! Guarded by these horrifying beasts."'
+  - '"They took claim of MY body parts, dear traveller. The journey of a lady''s
+    suffering never ceases."'
+  - '"If you have read this far...it must mean that you too have lost yourself."'
+  - '"Perhaps then we can help each other."'
+  - '"Find my body parts, oh dear traveller. For only I know the exit to this nightmare."'
+  - '"You will find me just by the lake in the depths of these woods."'
+  - '"I have placed signs throughout these cursed woods for you to follow."'
+  - '"My journey too was a long and cursed one. You will learn more through my signs."'
+  - '"Good luck, dear traveller. I only hope you stay safe from harm..."'
+  - Either this is a practical joke or a dream. Body parts stolen and she's not dead?
+  - I'm...scared. But I'm even more scared to stay here...
+  - I hope she really did scatter those signs around because I'm completely defenceless...
+  - Let's just pray I make it out of here with all my body parts.

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8605ad41da40f4d82c4f2b521857ce, type: 3}
+  m_Name: Cutscene2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"Who goes there?"'
+  - I-I come in peace...
+  - '"Why do you look so afraid? I will not harm you."'
+  - Wait, really? So you're not a...m-monster?
+  - '"Monster? No monster roams this area. I am simply a forest spirit."'
+  - Wait...what? No monsters roam around here? I was told monsters that steal limbs-
+  - '"What?! So she sent you here, didn''t she?"'
+  - Well, I don't exactly know her name yet but...
+  - '"That woman...is lying to you. She is not to be trusted."'
+  - '"No monsters roam these lands and she did not get her limbs ''stolen''. She
+    left them with me for a wish."'
+  - A wish? What was the wish?
+  - '"I cannot divulge that, but she was incredibly desperate. I should have never
+    indulged her."'
+  - Why...would she lie to me, then?
+  - '"That is not something I can answer. You will have to ask her yourself. Unless
+    you too have something to offer me..."'
+  - '"I will now ask you to leave, if you please. I feel disgraced by that woman''s
+    lies."'
+  - Oh! Uh...sure. Thank you for your help.
